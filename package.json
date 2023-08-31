@@ -1,0 +1,15 @@
+{
+    "name": "mp3-splitter",
+    "version": "1.0.0",
+    "description": "Split an MP3 file into segments with user-defined number",
+    "main": "splitMp3.js",
+    "dependencies": {
+      "fluent-ffmpeg": "^2.1.2"
+    },
+    "scripts": {
+      "start": "node splitMp3.js"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
